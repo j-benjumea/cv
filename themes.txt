@@ -1,0 +1,11 @@
+Web:
+    - elegant       [https://registry.jsonresume.org/j-benjumea?theme=elegant]
+    - full          [https://registry.jsonresume.org/j-benjumea?theme=full]
+    - stackoverflow [https://registry.jsonresume.org/j-benjumea?theme=stackoverflow]
+    - github        [https://registry.jsonresume.org/j-benjumea?theme=github]
+
+Paper:
+    - macchiato     [https://registry.jsonresume.org/j-benjumea?theme=macchiato]
+    - dave          [https://registry.jsonresume.org/j-benjumea?theme=dave]
+    - onepage       [https://registry.jsonresume.org/j-benjumea?theme=onepage]
+    - spartan       [https://registry.jsonresume.org/j-benjumea?theme=spartan]
