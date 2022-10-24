@@ -1,8 +1,8 @@
 # Jorge's CV
 - It's divided in several parts:
 
-  [] Spanish CV
+  [ ] Spanish CV
 
-  [] English CV
+  [ ] English CV
 
-  [] Publish?
+  [ ] Publish?
